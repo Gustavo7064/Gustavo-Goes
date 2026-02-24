@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Engenharia de Software e Desenvolvedor em formação. Moro no Brasil </p>
+<p align="left">Estudante de Engenharia de Software e Desenvolvedor em formação. Moro em Sao Paulo, Brasil!  </p>
 
 
 ###
