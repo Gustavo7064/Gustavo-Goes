@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Ei 👋 Como vai?</h1>
 
 ###
 
@@ -8,13 +8,37 @@
 
 <h2 align="left">Sobre mim</h2>
 
+# 👋 Olá, eu sou o Gustavo
+
+🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Basilides de Godoy  
+🎓 Graduando em Engenharia de Software  
+💻 Desenvolvedor desde 2025  
+
+Sou apaixonado por tecnologia e desenvolvimento de software.  
+Comecei a programar em 2025 e desde então venho construindo projetos próprios para evoluir minhas habilidades técnicas e minha visão de engenharia.
+
+Tenho foco em:
+
+- Desenvolvimento Back-end
+- Lógica de Programação e Estrutura de Dados
+- Construção de APIs
+- Versionamento com Git
+- Projetos práticos com foco em aprendizado real
+
+🚀 Aqui você encontrará meus projetos individuais, onde aplico na prática o que estudo na faculdade e no curso técnico.
+
+Sempre buscando evoluir como desenvolvedor e construir soluções eficientes, escaláveis e bem estruturadas.
+
+<p align="left">
+✨ Construindo projetos reais desde 2025<br>
+📚 Atualmente estudando Estrutura de Dados, Algoritmos e Arquitetura de Software<br>
+🎯 Objetivo: me tornar um desenvolvedor back-end altamente qualificado<br>
+🚀 Focado em evolução contínua e código limpo, eficiente e escalável
+</p>
+
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu desenvolvo em C#, tambem em Java. </h2>
 
 ###
 
