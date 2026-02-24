@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome e Gustavo e eu sou um Engenheiro de Software, Desenvolvedor de Sistemas! Moro no Brasil!</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
